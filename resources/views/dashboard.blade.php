@@ -28,7 +28,7 @@
                         </button>
                         @else
                         <button
-                            class="rounded-md bg-gradient-to-r from-red-400 to-red-500 text-xl text-white pt-3 pb-4 px-4 inline">supprimer
+                            class="rounded-md bg-gradient-to-r from-red-400 to-red-500 text-xl text-white pt-3 pb-4 px-4 inline">supprimer TESTZTZEADSFDGFGDSSQDGGDQSGDGDS
                         </button>
                         @endif
                         @endadmin
